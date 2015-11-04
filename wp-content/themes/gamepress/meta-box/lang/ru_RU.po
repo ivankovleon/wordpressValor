@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GamePress v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-24 13:01:41+0000\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:8
+#@ gamepress
+msgid "404 Error!"
+msgstr "Ошибка 404! Нет такой страницы."
+
+#: 404.php:10
+#@ gamepress
+msgid "The page You requested was not found. Perhaps searching can help."
+msgstr "Запрашиваемая страница не найдена."
+
+#: 404.php:15
+#@ gamepress
+msgid "Home Page"
+msgstr "Главная"
+
+#: admin/options-framework/options-framework.php:163
+#: admin/options-framework/options-framework.php:385
+#@ options_framework_theme
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:196
+#@ default
+msgid "Clear"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:197
+#@ default
+msgid "Default"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:198
+#@ default
+msgid "Select Color"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:232
+#@ gamepress
+msgid "Upgrade to GamePress Pro!"
+msgstr "Обновить"
+
+#: admin/options-framework/options-framework.php:233
+#@ gamepress
+msgid "All GamePress features plus <b>responsive design</b>, beautiful <b>light skin</b> and <b>lifetime updates</b>."
+msgstr ""
+
+#: admin/options-framework/options-framework.php:233
+#@ gamepress
+msgid "Buy now!"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:248
+#@ options_framework_theme
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:249
+#@ options_framework_theme
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:249
+#@ options_framework_theme
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework/options-framework.php:281
+#@ options_framework_theme
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework/options-framework.php:335
+#@ options_framework_theme
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-framework/options-medialibrary-uploader.php:26
+#@ optionsframework
+msgid "Theme Options Media"
+msgstr ""
+
+#: admin/options-framework/options-medialibrary-uploader.php:126
+#@ optionsframework
+msgid "Upload"
+msgstr ""
+
+#: admin/options-framework/options-medialibrary-uploader.php:149
+#@ options_framework_theme
+msgid "View File"
+msgstr ""
+
+#: admin/options-framework/options-medialibrary-uploader.php:282
+#@ optionsframework
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-framework/options-medialibrary-uploader.php:282
+#@ options_framework_theme
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:232
+#@ options_framework_theme
+msgid "No Repeat"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:233
+#@ options_framework_theme
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:234
+#@ options_framework_theme
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:235
+#@ options_framework_theme
+msgid "Repeat All"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:248
+#@ options_framework_theme
+msgid "Top Left"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:249
+#@ options_framework_theme
+msgid "Top Center"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:250
+#@ options_framework_theme
+msgid "Top Right"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:251
+#@ options_framework_theme
+msgid "Middle Left"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:252
+#@ options_framework_theme
+msgid "Middle Center"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:253
+#@ options_framework_theme
+msgid "Middle Right"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:254
+#@ options_framework_theme
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:255
+#@ options_framework_theme
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:256
+#@ options_framework_theme
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:269
+#@ options_framework_theme
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:270
+#@ options_framework_theme
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:344
+#@ options_framework_theme
+msgid "Normal"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:345
+#@ options_framework_theme
+msgid "Italic"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:346
+#@ options_framework_theme
+msgid "Bold"
+msgstr ""
+
+#: admin/options-framework/options-sanitize.php:347
+#@ options_framework_theme
+msgid "Bold Italic"
+msgstr ""
+
+#: admin/widgets/recent-posts-widget.php:19
+#@ gamepress
+msgid "Displays a list of recent posts, reviews and videos in a tabbed widget"
+msgstr "Показывать последние записи и видео в виджете"
+
+#: admin/widgets/recent-posts-widget.php:25
+#@ gamepress
+msgid "GamePress: Recent news, reviews & videos"
+msgstr "Последние записи, обзоры и видео"
+
+#: admin/widgets/recent-posts-widget.php:42
+#@ gamepress
+msgid "Reviews"
+msgstr "Обзор"
+
+#: admin/widgets/recent-posts-widget.php:43
+#@ gamepress
+msgid "News"
+msgstr "Новости"
+
+#: admin/widgets/recent-posts-widget.php:44
+#: archive-gamepress_video.php:13
+#: functions.php:301
+#: options.php:37
+#: options.php:117
+#@ gamepress
+msgid "Videos"
+msgstr "Видео"
+
+#: admin/widgets/recent-posts-widget.php:72
+#: admin/widgets/recent-posts-widget.php:114
+#: admin/widgets/recent-posts-widget.php:148
+#: comments.php:20
+#: content-single.php:7
+#: image.php:15
+#: reviews-single.php:22
+#: video-single.php:7
+#@ gamepress
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: admin/widgets/recent-posts-widget.php:72
+#: admin/widgets/recent-posts-widget.php:114
+#: admin/widgets/recent-posts-widget.php:148
+#: comments.php:20
+#: content-single.php:7
+#: image.php:15
+#: reviews-single.php:22
+#: video-single.php:7
+#@ gamepress
+msgid "1 comment"
+msgstr "Один комментарий"
+
+#: admin/widgets/recent-posts-widget.php:72
+#: admin/widgets/recent-posts-widget.php:114
+#: admin/widgets/recent-posts-widget.php:148
+#: content-single.php:7
+#: image.php:15
+#: reviews-single.php:22
+#: video-single.php:7
+#@ gamepress
+msgid "Comments: %"
+msgstr "Комментариев %"
+
+#: admin/widgets/recent-posts-widget.php:85
+#@ gamepress
+msgid "No game reviews yet."
+msgstr "Нет обзоров"
+
+#: admin/widgets/recent-posts-widget.php:156
+#@ gamepress
+msgid "No videos yet."
+msgstr "Нет видео"
+
+#: admin/widgets/recent-posts-widget.php:189
+#@ gamepress
+msgid "Number of posts to show"
+msgstr "Номер записи для отображения"
+
+#: admin/widgets/social-widget.php:19
+#@ gamepress
+msgid "Displays icons with linked to RSS / Facebook/ Twitter / Flickr / YouTube"
+msgstr "Показывать RSS / Facebook/ Twitter / Flickr / YouTube"
+
+#: admin/widgets/social-widget.php:25
+#@ gamepress
+msgid "GamePress: Social icons"
+msgstr ""
+
+#: admin/widgets/social-widget.php:51
+#@ gamepress
+msgid "Subscribe to RSS feed"
+msgstr ""
+
+#: admin/widgets/social-widget.php:52
+#@ gamepress
+msgid "Follow me on Facebook"
+msgstr ""
+
+#: admin/widgets/social-widget.php:53
+#@ gamepress
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: admin/widgets/social-widget.php:54
+#@ gamepress
+msgid "Follow me on YouTube"
+msgstr ""
+
+#: admin/widgets/social-widget.php:55
+#@ gamepress
+msgid "Follow me on Flickr"
+msgstr ""
+
+#: admin/widgets/social-widget.php:84
+#@ gamepress_social_widget
+msgid "Follow me"
+msgstr ""
+
+#: admin/widgets/social-widget.php:89
+#@ gamepress
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/widgets/social-widget.php:95
+#@ gamepress
+msgid "URL address of your RSS feed"
+msgstr "URL адрес RSS ленты"
+
+#: admin/widgets/social-widget.php:97
+#@ gamepress
+msgid "Enter full feed URL. If you don't want to display this, leave empty."
+msgstr ""
+
+#: admin/widgets/social-widget.php:102
+#@ gamepress
+msgid "URL address of your Facebook profile or page"
+msgstr ""
+
+#: admin/widgets/social-widget.php:104
+#@ gamepress
+msgid "Enter full URL of your Facebook profile or page. If you don't want to display this, leave empty."
+msgstr ""
+
+#: admin/widgets/social-widget.php:108
+#@ gamepress
+msgid "URL address of your Twitter profile page"
+msgstr ""
+
+#: admin/widgets/social-widget.php:110
+#@ gamepress
+msgid "Enter full URL of your Twitter profile page. If you don't want to display this, leave empty."
+msgstr ""
+
+#: admin/widgets/social-widget.php:114
+#@ gamepress
+msgid "URL address of your YouTube profile page"
+msgstr ""
+
+#: admin/widgets/social-widget.php:116
+#@ gamepress
+msgid "Enter full URL of your YouTube profile page. If you don't want to display this, leave empty."
+msgstr ""
+
+#: admin/widgets/social-widget.php:121
+#@ gamepress
+msgid "Enter full URL to your Flickr profile. If you don't want to display this, leave empty."
+msgstr ""
+
+#: admin/widgets/twitter-widget.php:19
+#@ gamepress_twitter_widget
+msgid "A widget that displays your latest tweets"
+msgstr ""
+
+#: admin/widgets/twitter-widget.php:25
+#@ gamepress_twitter_widget
+msgid "GamePress: Twitter Stream"
+msgstr ""
+
+#: admin/widgets/twitter-widget.php:84
+#@ gamepress
+msgid "From Twitter"
+msgstr ""
+
+#: admin/widgets/twitter-widget.php:84
+#@ gamepress
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: admin/widgets/twitter-widget.php:89
+#@ gamepress
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: admin/widgets/twitter-widget.php:95
+#@ gamepress
+msgid "Twitter username:"
+msgstr ""
+
+#: admin/widgets/twitter-widget.php:101
+#@ gamepress
+msgid "Number of tweets to show:"
+msgstr "Показывать твиты:"
+
+#: admin/widgets/twitter-widget.php:107
+#@ gamepress
+msgid "Follow Text:"
+msgstr ""
+
+#: archive-gamepress_reviews.php:13
+#: functions.php:267
+#: options.php:36
+#: options.php:116
+#@ gamepress
+msgid "Game Reviews"
+msgstr "Обзор игры"
+
+#: archive-gamepress_reviews.php:15
+#: archive-gamepress_video.php:15
+#: archive.php:24
+#: functions.php:168
+#: sidebar.php:8
+#: tag.php:24
+#@ gamepress
+msgid "Archives"
+msgstr "Архив"
+
+#: archive-gamepress_reviews.php:36
+#: archive-gamepress_video.php:38
+#: archive.php:65
+#: index.php:60
+#: search.php:41
+#: tag.php:58
+#: taxonomy.php:48
+#@ gamepress
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: archive-gamepress_reviews.php:40
+#: archive-gamepress_video.php:42
+#: archive.php:69
+#: index.php:64
+#: search.php:45
+#: tag.php:62
+#: taxonomy.php:52
+#@ gamepress
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Вопспользуйтесь поиском."
+
+#: archive-gamepress_reviews.php:54
+#: archive-gamepress_video.php:56
+#: archive.php:83
+#: index.php:78
+#: search.php:59
+#: tag.php:76
+#: taxonomy.php:66
+#@ gamepress
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+#: archive-gamepress_reviews.php:55
+#: archive-gamepress_video.php:57
+#: archive.php:84
+#: index.php:79
+#: search.php:60
+#: tag.php:77
+#: taxonomy.php:67
+#@ gamepress
+msgid "Newer posts"
+msgstr "Новые записи"
+
+#: archive.php:14
+#: tag.php:14
+#, php-format
+#@ gamepress
+msgid "Daily Archives: %s"
+msgstr "Архив за день %s"
+
+#: archive.php:16
+#: tag.php:16
+#, php-format
+#@ gamepress
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц %s"
+
+#: archive.php:18
+#: tag.php:18
+#, php-format
+#@ gamepress
+msgid "Yearly Archives: %s"
+msgstr "Архив за год %s"
+
+#: archive.php:20
+#: tag.php:20
+#, php-format
+#@ gamepress
+msgid "Category: %s"
+msgstr "Рубрика %s"
+
+#: archive.php:22
+#: tag.php:22
+#, php-format
+#@ gamepress
+msgid "Tagged: %s"
+msgstr "Метки %s"
+
+#: comments.php:4
+#@ gamepress
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Комментарии закрыты."
+
+#: comments.php:20
+#: content-bigthumb.php:28
+#: content-smallthumb.php:34
+#: content.php:22
+#: reviews-archive.php:26
+#@ gamepress
+msgid "% Comments"
+msgstr "Комментариев %"
+
+#: comments.php:28
+#: comments.php:40
+#@ gamepress
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:29
+#: comments.php:41
+#@ gamepress
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:30
+#: comments.php:42
+#@ gamepress
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:53
+#@ gamepress
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: comments.php:58
+#: content-bigthumb.php:28
+#: content-smallthumb.php:34
+#: content.php:22
+#: reviews-archive.php:26
+#@ gamepress
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+#: comments.php:59
+#, php-format
+#@ gamepress
+msgid "Leave a reply to %s"
+msgstr "Комментировать %s"
+
+#: comments.php:60
+#@ gamepress
+msgid "Cancel reply"
+msgstr "Отменить"
+
+#: content-bigthumb.php:21
+#: content-bigthumb.php:23
+#: content-bigthumb.php:25
+#: content-single.php:6
+#: content-smallthumb.php:27
+#: content-smallthumb.php:29
+#: content-smallthumb.php:31
+#: content.php:15
+#: content.php:17
+#: content.php:19
+#: image.php:14
+#: reviews-archive.php:24
+#: reviews-single.php:21
+#: video-archive.php:19
+#: video-single.php:6
+#@ gamepress
+msgid "Posted in "
+msgstr "Опубликовано в:"
+
+#: content-bigthumb.php:25
+#: content-single.php:6
+#: content-smallthumb.php:31
+#: content.php:19
+#: image.php:14
+#@ gamepress
+msgid ", "
+msgstr ""
+
+#: content-bigthumb.php:28
+#: content-smallthumb.php:34
+#: content.php:22
+#: reviews-archive.php:26
+#@ gamepress
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: content-bigthumb.php:30
+#: content-smallthumb.php:36
+#: content.php:24
+#@ gamepress
+msgid "Permalink"
+msgstr ""
+
+#: content-page.php:14
+#: content-single.php:13
+#: reviews-single.php:29
+#: video-single.php:13
+#@ gamepress
+msgid "Pages:"
+msgstr "Страница:"
+
+#: content-page.php:16
+#: functions.php:305
+#@ gamepress
+msgid "Edit"
+msgstr "Редактировать"
+
+#: content-single.php:19
+#: reviews-single.php:35
+#: video-single.php:19
+#@ gamepress
+msgid "Tagged: "
+msgstr "Метки"
+
+#: content-single.php:20
+#: reviews-single.php:36
+#: video-single.php:20
+#@ gamepress
+msgid "Edit this entry"
+msgstr "Редактировать"
+
+#: content-smallthumb.php:34
+#@ gamepress
+msgid "Comments are closed"
+msgstr "Комментарии закрыты"
+
+#: footer.php:16
+#@ gamepress
+msgid "Proudly powered by"
+msgstr ""
+
+#: footer.php:16
+#@ gamepress
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:16
+#@ gamepress
+msgid "GamePress"
+msgstr ""
+
+#: footer.php:20
+#@ gamepress
+msgid "BACK TO TOP"
+msgstr "НАВЕРХ"
+
+#: functions.php:45
+#@ gamepress
+msgid "GamePress Main Menu"
+msgstr ""
+
+#: functions.php:165
+#@ gamepress
+msgid "Category"
+msgstr "Рубрика"
+
+#: functions.php:166
+#@ gamepress
+msgid "Tag"
+msgstr "Метки"
+
+#: functions.php:167
+#@ gamepress
+msgid "Author"
+msgstr "Автор"
+
+#: functions.php:174
+#: functions.php:178
+#@ gamepress
+msgid "Page "
+msgstr "Страницы"
+
+#: functions.php:209
+#: functions.php:214
+#@ gamepress
+msgid "Read more"
+msgstr "Читать"
+
+#: functions.php:268
+#@ gamepress
+msgid "Game Review"
+msgstr "Обзор игры"
+
+#: functions.php:269
+#@ gamepress
+msgid "Add new review"
+msgstr "Добавить новый обзор"
+
+#: functions.php:270
+#@ gamepress
+msgid "Edit review"
+msgstr "Редактировать обзор"
+
+#: functions.php:271
+#@ gamepress
+msgid "New review"
+msgstr "Новый обзор"
+
+#: functions.php:272
+#@ gamepress
+msgid "View review"
+msgstr "Смотреть обзор"
+
+#: functions.php:273
+#@ gamepress
+msgid "Search reviews"
+msgstr "Искать обзор"
+
+#: functions.php:274
+#@ gamepress
+msgid "No reviews found"
+msgstr "Не найдены обзоры"
+
+#: functions.php:275
+#@ gamepress
+msgid "No reviews found in Trash"
+msgstr "Не найдены обзоры в корзине"
+
+#: functions.php:302
+#@ gamepress
+msgid "Video"
+msgstr "Видео"
+
+#: functions.php:303
+#@ gamepress
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: functions.php:304
+#@ gamepress
+msgid "Add New Video"
+msgstr "Добавить новое видео"
+
+#: functions.php:306
+#@ gamepress
+msgid "Edit Video"
+msgstr "Редактировать видео"
+
+#: functions.php:307
+#@ gamepress
+msgid "New Video"
+msgstr "Новое видео"
+
+#: functions.php:308
+#: functions.php:309
+#@ gamepress
+msgid "View Video"
+msgstr "Смотреть видео"
+
+#: functions.php:310
+#@ gamepress
+msgid "Search Videos"
+msgstr "Искать видео"
+
+#: functions.php:311
+#@ gamepress
+msgid "No videos found"
+msgstr "Не найдено видео"
+
+#: functions.php:312
+#@ gamepress
+msgid "No videos found in Trash"
+msgstr "Не найдено видео в корзине"
+
+#: functions.php:313
+#@ gamepress
+msgid "Parent Video"
+msgstr "Главное видео"
+
+#: functions.php:340
+#@ gamepress
+msgctxt "taxonomy general name"
+msgid "Review Categories"
+msgstr "Смотреть рубрики"
+
+#: functions.php:341
+#@ gamepress
+msgctxt "taxonomy singular name"
+msgid "Review Category"
+msgstr "Смотреть рубрики"
+
+#: functions.php:342
+#@ gamepress
+msgid "Search Review Categories"
+msgstr "Искать обзор в рубриках"
+
+#: functions.php:343
+#@ gamepress
+msgid "All Review Categories"
+msgstr "Все обзоры в рубриках"
+
+#: functions.php:344
+#@ gamepress
+msgid "Parent Review Category"
+msgstr "Главный обзор рубрики"
+
+#: functions.php:345
+#@ gamepress
+msgid "Parent Review Category:"
+msgstr "Главный обзор рубрики"
+
+#: functions.php:346
+#@ gamepress
+msgid "Edit Review Category"
+msgstr "Редактировать обзор рубрики"
+
+#: functions.php:347
+#@ gamepress
+msgid "Update Review Category"
+msgstr "Обновить обзор рубрики"
+
+#: functions.php:348
+#@ gamepress
+msgid "Add New Review Category"
+msgstr "Добавить новый обзор рубрики"
+
+#: functions.php:349
+#@ gamepress
+msgid "New Review Category Name"
+msgstr "Имя нового обзора рубрики"
+
+#: functions.php:350
+#: functions.php:381
+#@ gamepress
+msgid "Categories"
+msgstr "Рубрики"
+
+#: functions.php:371
+#@ gamepress
+msgctxt "taxonomy general name"
+msgid "Video Categories"
+msgstr "Категории видео"
+
+#: functions.php:372
+#@ gamepress
+msgctxt "taxonomy singular name"
+msgid "Video Category"
+msgstr "Категории видео"
+
+#: functions.php:373
+#@ gamepress
+msgid "Search Video Categories"
+msgstr "Искать категории видео"
+
+#: functions.php:374
+#@ gamepress
+msgid "All Video Categories"
+msgstr "Все категории видео"
+
+#: functions.php:375
+#@ gamepress
+msgid "Parent Video Category"
+msgstr "Главная категория видео"
+
+#: functions.php:376
+#@ gamepress
+msgid "Parent Video Category:"
+msgstr "Главная категория видео"
+
+#: functions.php:377
+#@ gamepress
+msgid "Edit Video Category"
+msgstr "Редактировать категорию видео"
+
+#: functions.php:378
+#@ gamepress
+msgid "Update Video Category"
+msgstr "Обновить категорию видео"
+
+#: functions.php:379
+#@ gamepress
+msgid "Add New Video Category"
+msgstr "Добавить новую категорию видео"
+
+#: functions.php:380
+#@ gamepress
+msgid "New Video Category Name"
+msgstr "Имя новой категории видео"
+
+#: functions.php:416
+#@ gamepress
+msgid "Perfect"
+msgstr "Отлично"
+
+#: functions.php:418
+#@ gamepress
+msgid "Amazing"
+msgstr "Превосходно"
+
+#: functions.php:420
+#@ gamepress
+msgid "Great"
+msgstr "Замечательно"
+
+#: functions.php:422
+#@ gamepress
+msgid "Good"
+msgstr "Хорошо"
+
+#: functions.php:424
+#@ gamepress
+msgid "Fair"
+msgstr "Справедливо"
+
+#: functions.php:426
+#@ gamepress
+msgid "Mediocre"
+msgstr "Посредственно"
+
+#: functions.php:428
+#@ gamepress
+msgid "Poor"
+msgstr "Дешево"
+
+#: functions.php:430
+#@ gamepress
+msgid "Bad"
+msgstr "Плохо"
+
+#: functions.php:432
+#@ gamepress
+msgid "Terrible"
+msgstr "Ужасно"
+
+#: functions.php:434
+#@ gamepress
+msgid "Abysmal"
+msgstr "Ужас"
+
+#: functions.php:448
+#@ gamepress
+msgid "The Verdict"
+msgstr "Вердикт"
+
+#: functions.php:455
+#@ gamepress
+msgid "The Good: "
+msgstr "Хорошо"
+
+#: functions.php:458
+#@ gamepress
+msgid "The Bad: "
+msgstr "Плохо"
+
+#: functions.php:599
+#@ gamepress
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает модерации"
+
+#: functions.php:792
+#@ gamepress
+msgid "Support"
+msgstr "Поддержка"
+
+#: functions.php:794
+#@ gamepress
+msgid "The best way to contact me with <b>support questions</b> and <b>bug reports</b> is via the"
+msgstr "Самый лучший способ связаться со мной: <b>служба поддержки </ B> и <b> сообщения об ошибке </ B>"
+
+#: functions.php:794
+#@ gamepress
+msgid "WordPress support forums"
+msgstr ""
+
+#: functions.php:795
+#@ gamepress
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr ""
+
+#: functions.php:797
+#@ gamepress
+msgid "Rate GamePress at WordPress.org"
+msgstr ""
+
+#: functions.php:798
+#@ gamepress
+msgid "Donate a token of your appreciation"
+msgstr ""
+
+#: image.php:21
+#@ gamepress
+msgid "Next image &raquo;"
+msgstr "Следующее изображение &raquo;"
+
+#: image.php:21
+#@ gamepress
+msgid "&laquo; Previous image"
+msgstr "&laquo; Предыдущее изображение"
+
+#: index.php:28
+#@ gamepress
+msgid "Latest news"
+msgstr "Последние новости"
+
+#: meta-box/inc/classes/meta-box.php:326
+#@ rwmb
+msgid "+"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:350
+#@ rwmb
+msgid "&#8211;"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:69
+#@ rwmb
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:83
+#@ rwmb
+msgctxt "file upload"
+msgid "Uploaded files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:84
+#@ rwmb
+msgctxt "file upload"
+msgid "Delete this file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:85
+#@ rwmb
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:86
+#@ rwmb
+msgctxt "file upload"
+msgid "Upload files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:87
+#@ rwmb
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:75
+#@ rwmb
+msgid "Order saved"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:91
+#: meta-box/inc/fields/plupload-image.php:145
+#@ rwmb
+msgctxt "image upload"
+msgid "Uploaded files"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:92
+#: meta-box/inc/fields/plupload-image.php:111
+#@ rwmb
+msgctxt "image upload"
+msgid "Delete this file"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:93
+#: meta-box/inc/fields/plupload-image.php:112
+#@ rwmb
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:94
+#: meta-box/inc/fields/plupload-image.php:113
+#@ rwmb
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:95
+#: meta-box/inc/fields/plupload-image.php:146
+#@ rwmb
+msgctxt "image upload"
+msgid "Upload files"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:96
+#@ rwmb
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:94
+#@ rwmb
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:149
+#@ rwmb
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:150
+#@ rwmb
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:151
+#@ rwmb
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/meta-box-3.2.2.class.php:108
+#: meta-box/meta-box-3.2.2.class.php:349
+#@ gamepress
+msgid "Delete this image"
+msgstr "Удалить изображение"
+
+#: meta-box/meta-box-3.2.2.class.php:108
+#: meta-box/meta-box-3.2.2.class.php:306
+#: meta-box/meta-box-3.2.2.class.php:349
+#@ gamepress
+msgid "Delete"
+msgstr "Удалить"
+
+#: meta-box/meta-box-3.2.2.class.php:302
+#@ gamepress
+msgid "Uploaded files"
+msgstr "Загрузить файлы"
+
+#: meta-box/meta-box-3.2.2.class.php:312
+#@ gamepress
+msgid "Upload new files"
+msgstr "Загрузить новые файлы"
+
+#: meta-box/meta-box-3.2.2.class.php:315
+#@ gamepress
+msgid "Add more file"
+msgstr "Добавить больше файлов"
+
+#: meta-box/meta-box-3.2.2.class.php:356
+#@ gamepress
+msgid "Add more images"
+msgstr "Добавить больше изображений"
+
+#: meta-box/meta-box-3.2.2.class.php:363
+#@ gamepress
+msgid "Select a color"
+msgstr "Выберите цвет"
+
+#: meta-box/meta-box.php:79
+#@ rwmb
+msgid "RW_Meta_Box Debug:"
+msgstr ""
+
+#: meta-box/metabox-def.php:34
+#@ gamepress
+msgid "Game review"
+msgstr "Обзор игры"
+
+#: meta-box/metabox-def.php:49
+#@ gamepress
+msgid "Intro text"
+msgstr "Текст интро"
+
+#: meta-box/metabox-def.php:50
+#@ gamepress
+msgid "One sentence intro text, displayed below the post title"
+msgstr "Введенный текст отображается под заголовком"
+
+#: meta-box/metabox-def.php:58
+#@ gamepress
+msgid "Overall score"
+msgstr "Общая оценка"
+
+#: meta-box/metabox-def.php:59
+#@ gamepress
+msgid "Number between 1 - 10 (eg. 5.6)"
+msgstr "Номера между 1-10"
+
+#: meta-box/metabox-def.php:66
+#@ gamepress
+msgid "The Good"
+msgstr "Хорошо"
+
+#: meta-box/metabox-def.php:67
+#@ gamepress
+msgid "List the things that You liked about the game in short sentences. Separate each entry, for example with |."
+msgstr "Список вещей, которые вам нравятся. Разделите каждый элемент."
+
+#: meta-box/metabox-def.php:75
+#@ gamepress
+msgid "The Bad"
+msgstr "Плохо"
+
+#: meta-box/metabox-def.php:76
+#@ gamepress
+msgid "List the things that You didn't like about the game in short sentences. Separate each entry, for example with |."
+msgstr "Список вещей, которые вам не нравятся. Разделите каждый элемент."
+
+#: meta-box/metabox-def.php:84
+#@ gamepress
+msgid "Game cover image"
+msgstr "Обложка игры"
+
+#: meta-box/metabox-def.php:85
+#@ gamepress
+msgid "Game cover displayed next to the title with Game Review posts"
+msgstr "Обложка игры отображается рядом с заголовком"
+
+#: options.php:31
+#@ gamepress
+msgid "Red"
+msgstr "Красный"
+
+#: options.php:31
+#@ gamepress
+msgid "Green"
+msgstr "Зеленый"
+
+#: options.php:31
+#@ gamepress
+msgid "Blue"
+msgstr "Голубой"
+
+#: options.php:31
+#@ gamepress
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: options.php:33
+#@ gamepress
+msgid "Display full content for each post"
+msgstr "Показывать весь контент"
+
+#: options.php:33
+#@ gamepress
+msgid "Display excerpt and big thumbnail"
+msgstr "Показывать ограниченный текст и большую миниатюру."
+
+#: options.php:33
+#@ gamepress
+msgid "Display excerpt and small thumbnail"
+msgstr "Показывать ограниченный текст и маленькую миниатюру."
+
+#: options.php:39
+#@ gamepress
+msgid "No"
+msgstr "Нет"
+
+#: options.php:39
+#@ gamepress
+msgid "Yes"
+msgstr "Да"
+
+#: options.php:40
+#@ gamepress
+msgid "Newest posts"
+msgstr "Новые записи"
+
+#: options.php:40
+#@ gamepress
+msgid "Posts from selected category"
+msgstr "Записи из выбранной категории"
+
+#: options.php:41
+#@ gamepress
+msgid "Default Nivo Slider"
+msgstr "Стандартный слайдер"
+
+#: options.php:41
+#@ gamepress
+msgid "Nivo Slider with thumbs navigation"
+msgstr "Слайдер с навигациями по миниатюрам"
+
+#: options.php:68
+#@ gamepress
+msgid "Basic settings"
+msgstr "Базовые настройки"
+
+#: options.php:71
+#@ gamepress
+msgid "Color scheme"
+msgstr "Цветовая схема"
+
+#: options.php:72
+#@ gamepress
+msgid "Select color scheme."
+msgstr "Выбрать цветовую схему"
+
+#: options.php:79
+#@ gamepress
+msgid "Custom logo image"
+msgstr "Собственное лого"
+
+#: options.php:80
+#@ gamepress
+msgid "You can upload custom image for your website logo (optional)."
+msgstr "Вы можете загрузить собственный логотип."
+
+#: options.php:84
+#@ gamepress
+msgid "Do You want to use custom favicon?"
+msgstr "Собственный favicon"
+
+#: options.php:90
+#@ gamepress
+msgid "Favicon URL"
+msgstr ""
+
+#: options.php:91
+#@ gamepress
+msgid "If You choose to use custom favicon, input here FULL URL to the favicon.ico image."
+msgstr "Вы можете использовать собственный favicon.ico"
+
+#: options.php:96
+#@ gamepress
+msgid "Search"
+msgstr "Поиск"
+
+#: options.php:97
+#@ gamepress
+msgid "Do you want to include search in menu bar?"
+msgstr "Хотите использовать поиск в меню"
+
+#: options.php:103
+#@ gamepress
+msgid "Home Page settings"
+msgstr "Настройки главной страницы"
+
+#: options.php:106
+#@ gamepress
+msgid "Home Page layout"
+msgstr "Структура главной страницы"
+
+#: options.php:112
+#@ gamepress
+msgid "Select custom post types, that You want to include on the home page"
+msgstr "Выберите пользовательские типы записей, которые Вы хотите включить на главной странице"
+
+#: options.php:113
+#@ gamepress
+msgid "These custom post types will be also included in archives pages"
+msgstr "Выберите пользовательские типы записей, которые Вы хотите включить в архивах"
+
+#: options.php:123
+#@ gamepress
+msgid "Do You want to display image slider on the Home Page?"
+msgstr "Показывать слайдер на главной странице"
+
+#: options.php:129
+#@ gamepress
+msgid "Slider should display:"
+msgstr "Слайдер должен отображать"
+
+#: options.php:136
+#@ gamepress
+msgid "Select Category for Featured Posts slider"
+msgstr "Выберите категории для показа слайдера"
+
+#: options.php:137
+#@ gamepress
+msgid "Posts from this category will be rotating in image slider on the Home Page. IMPORTANT: Make sure all posts in this category have Featured Image set."
+msgstr "Записи из данных категорий будут показываться в слайдере. Важно! Все записи из выбранных категорий должны содержать изображение."
+
+#: options.php:143
+#@ gamepress
+msgid "Slider type"
+msgstr "Тип слайдера"
+
+#: options.php:150
+#@ gamepress
+msgid "Number of posts in slider"
+msgstr "Кол-во постов в слайдере"
+
+#: options.php:152
+#@ gamepress
+msgid "Pertains only to Default Nivo Slider. Nivo Slider with thumbs navigation shows always maximum of 4 posts."
+msgstr "Только для стандартного  слайдера"
+
+#: search.php:11
+#, php-format
+#@ gamepress
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:2
+#@ gamepress
+msgid "search here..."
+msgstr "Искать"
+
+#: sidebar.php:15
+#@ gamepress
+msgid "Meta"
+msgstr ""
+
+#: taxonomy.php:12
+#@ gamepress
+msgid "Reviews:"
+msgstr "Обзоры:"
+
+#: taxonomy.php:14
+#@ gamepress
+msgid "Videos:"
+msgstr "Видео:"
+
